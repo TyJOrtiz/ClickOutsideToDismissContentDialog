@@ -32,8 +32,6 @@ namespace //
             base.OnApplyTemplate();
             var grid = GetTemplateChild(nameof(LayoutRoot)) as Grid;
             grid.Tapped += Grid_Tapped;
-            // get all open popups
-            // normally there are 2 popups, one for your ContentDialog and one for Rectangle
             
         }
 
