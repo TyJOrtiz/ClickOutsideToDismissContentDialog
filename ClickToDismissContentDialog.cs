@@ -10,7 +10,7 @@ using Windows.UI.Xaml.Input;
 using Windows.UI.Xaml.Media;
 using Windows.UI.Xaml.Shapes;
 
-namespace NewMusicProject.Controls
+namespace //
 {
     public sealed partial class ClickToDismissContentDialog : ContentDialog
     {
